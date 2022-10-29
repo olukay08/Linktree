@@ -50,8 +50,12 @@ function App() {
          <a href="https://books.zuri.team/design-rules "id="book__design">Design Books</a>
          </div>
         </div>
-
+         <div className="footer">
+         <img src="slack.png"width="50px" height="50px"></img>
+         <img src="hublogo.png" width="50px" height="50px"></img>
+          <h5>olukay@zuri.interns20422</h5>
           </div>
+          </div>  
          </div>
       </div>
     </div>

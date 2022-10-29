@@ -23,6 +23,10 @@
   left: 0px;
   top: 0px;
 }
+img{
+    margin-right: 8px;
+    border-radius: 50%;
+}
 .sub_section{
  /* Auto layout */
 

@@ -17,9 +17,9 @@ function App() {
                 
           </div>
           <div className="link-section">
-            <div className ="links">
+            <div className ="btn_zuri">
               <div className="frames">
-                <a href="https://training.zuri.team/" id="btn__zuri" >Twitter Link</a>
+                <a href="https://training.zuri.team/" id="btn__zuri" >Twitt Link</a>
 
               </div>
 

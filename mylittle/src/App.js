@@ -13,13 +13,13 @@ function App() {
     
                 <div id="profile__img"></div>
                 <div id="twitter">lukaywolex</div>
-                <div id="slackusername">menukuro oluwole</div>
+                <div id="slack">oluwole</div>
                 
           </div>
           <div className="link-section">
             <div className ="btn_zuri">
               <div className="frames">
-                <a href="https://training.zuri.team/" id="btn__zuri" >Twitt Link</a>
+                <a href="https://twitter.com/lukaywolex" id="btn__zuri" >Twitter Link</a>
 
               </div>
 
